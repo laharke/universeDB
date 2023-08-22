@@ -338,7 +338,7 @@ INSERT INTO public.star VALUES (3, 'Moon', 'Moon', 3, 100);
 INSERT INTO public.star VALUES (5, 'Sun2', 'Sun star', 1, 2400);
 INSERT INTO public.star VALUES (6, 'Osa Mayor', 'La osa mayor big bear', 1, 2400);
 INSERT INTO public.star VALUES (7, 'Osa Menor', 'La osa menor small bear', 5, NULL);
-INSERT INTO public.star VALUES (8, 'Osa Menor test', 'La osa menor small bear', NULL, NULL);
+INSERT INTO public.star VALUES (8, 'Osa Menor test', 'La osa menor small bear', 5, NULL);
 
 
 --
